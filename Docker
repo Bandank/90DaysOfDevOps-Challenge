@@ -1,0 +1,24 @@
+Docker is an open-source platform that enables developers to automate the deployment and management of applications within lightweight, isolated containers. 
+Containers provide a consistent and portable environment for running applications, encapsulating dependencies and allowing applications to run reliably across different computing environments. 
+Docker simplifies the process of building, distributing, and running applications, making it easier to create scalable and deployable software solutions.
+
+
+I have written some blogs on this topic with detailed explanation and projects. Please check on the below link:
+
+Day 16:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-16-introducing-docker-activity-7044643914561011712-zPKJ?utm_source=share&utm_medium=member_desktop
+
+Day 17:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-17-docker-project-flask-calculator-activity-7045073075259719680-JgEu?utm_source=share&utm_medium=member_desktop
+
+Day 18:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-18-docker-deep-dive-activity-7045461602069811200-501y?utm_source=share&utm_medium=member_desktop
+
+Day 19:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-19-docker-for-devops-activity-7045793053520896000-9Mun?utm_source=share&utm_medium=member_desktop
+
+Day 20:
+https://www.linkedin.com/posts/bandan-devops-eng_docker-cheat-sheet-activity-7046138487913234432-sN5G?utm_source=share&utm_medium=member_desktop
+
+Day 21:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-21-docker-interview-questions-activity-7046557486715183105-6ESF?utm_source=share&utm_medium=member_desktop
