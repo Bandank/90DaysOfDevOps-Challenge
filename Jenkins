@@ -1,0 +1,32 @@
+Jenkins is an open-source automation server that facilitates the continuous integration and delivery (CI/CD) of software applications. 
+It provides a platform for building, testing, and deploying applications automatically, allowing developers to integrate code changes frequently and detect issues early in the development cycle. 
+Jenkins supports a wide range of plugins and integrations with other tools, making it highly customizable and adaptable to different development workflows and environments.
+
+
+
+I have written some blogs with detailed explanation including hands-on on this topic. Checkout the below links:
+
+Day 22:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-22-getting-started-with-jenkins-activity-7046882551398838272-gjzM?utm_source=share&utm_medium=member_desktop
+
+Day 23:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-23-jenkins-freestyle-project-activity-7047250163047800832-gT8i?utm_source=share&utm_medium=member_desktop
+
+Day 24:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-24-complete-jenkins-cicd-project-activity-7047518449677262848-jKuN?utm_source=share&utm_medium=member_desktop
+
+Day 25:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-25-complete-jenkins-cicd-project-activity-7047909879323213824-LLa9?utm_source=share&utm_medium=member_desktop
+
+Day 26:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-26-jenkins-declarative-pipeline-activity-7048267163559768064-K_xS?utm_source=share&utm_medium=member_desktop
+
+Day 27:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-27-jenkins-declarative-pipeline-activity-7048705544030674944-fBWO?utm_source=share&utm_medium=member_desktop
+
+Day 28:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-28-setup-a-jenkins-agent-in-activity-7049045361910235136-8WmD?utm_source=share&utm_medium=member_desktop
+
+Day 29:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-29-jenkins-interview-questions-activity-7049436475104346112-lh_n?utm_source=share&utm_medium=member_desktop
+
