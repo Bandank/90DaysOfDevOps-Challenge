@@ -1,0 +1,44 @@
+Terraform is an open-source infrastructure-as-code (IaC) tool that enables users to define and manage infrastructure resources declaratively. 
+It allows infrastructure to be represented as code, providing a consistent and version-controlled approach to provisioning and managing resources across various cloud providers and on-premises environments. 
+Terraform uses a domain-specific language (DSL) to describe the desired infrastructure configuration, and it automates the creation, modification, and deletion of resources while maintaining the desired state.
+
+
+I have written some blog with detailed explanaion and hands-on. Please follow the below links:
+
+Day 60:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-60-terraform-activity-7062139939789901825-tTCT?utm_source=share&utm_medium=member_desktop
+
+Day 61:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-61-terraform-commands-activity-7062529826645041152-QYzp?utm_source=share&utm_medium=member_desktop
+
+Day 62:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-62-terraform-and-docker-activity-7062879280061456384-ICYM?utm_source=share&utm_medium=member_desktop
+
+Day 63:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-63-terraform-variables-activity-7063428352681910272-pVn6?utm_source=share&utm_medium=member_desktop
+
+Day 64:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-64-terraform-with-aws-activity-7063695017839665153-IkoF?utm_source=share&utm_medium=member_desktop
+
+Day 65:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-65-working-with-terraform-resources-activity-7064325546037383168-SvNs?utm_source=share&utm_medium=member_desktop
+
+Day 66:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-66-project-building-an-entire-activity-7065011112261337088-A6-m?utm_source=share&utm_medium=member_desktop
+
+
+Day 67:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-67-aws-s3-bucket-creation-and-activity-7065798736815226880-caMx?utm_source=share&utm_medium=member_desktop
+
+Day 68:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-68-scaling-with-terraform-activity-7066266510293409792-ZF0O?utm_source=share&utm_medium=member_desktop
+
+Day 69:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-69-meta-arguments-in-terraform-activity-7066754147492016129-7nsp?utm_source=share&utm_medium=member_desktop
+
+Day 70:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-70-terraform-modules-activity-7067126473655992321-vMFO?utm_source=share&utm_medium=member_desktop
+
+Day 71:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-71-lets-prepare-for-some-interview-activity-7067703401777631232--yhi?utm_source=share&utm_medium=member_desktop
+
