@@ -1,0 +1,31 @@
+Kubernetes, often referred to as K8s, is an open-source container orchestration platform for automating the deployment, scaling, and management of containerized applications. 
+It provides a robust framework for running and coordinating container instances across a cluster of machines. 
+Kubernetes allows users to define the desired state of their applications, handles scaling and self-healing, and provides features for load balancing, service discovery, and storage orchestration, making it a powerful tool for managing containerized workloads in production environments.
+
+
+
+I have written some blogs explaning contents of thgis ttool along with hands-on. Please check the below links:
+
+Day 30:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-30-introducing-kubernetes-activity-7049768790561083392-Zxsf?utm_source=share&utm_medium=member_desktop
+
+Day 31:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-31-launching-your-first-kubernetes-activity-7050101909931593728-bS6n?utm_source=share&utm_medium=member_desktop
+
+Day 32:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-32-launching-your-kubernetes-activity-7050526362712846336-vvIn?utm_source=share&utm_medium=member_desktop
+
+Day 33:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-33-working-with-namespaces-activity-7050782553615589376-0OnS?utm_source=share&utm_medium=member_desktop
+
+Day 34:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-34-working-with-services-in-activity-7051235517748658176-KoII?utm_source=share&utm_medium=member_desktop
+
+Day 35:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-35-mastering-configmaps-and-activity-7051564571806883841-TI22?utm_source=share&utm_medium=member_desktop
+
+Day 36:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-36-managing-persistent-volumes-activity-7051957362105982976-tM1z?utm_source=share&utm_medium=member_desktop
+
+Day 37:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-37-kubernetes-important-interview-activity-7052335330754015233-aeTh?utm_source=share&utm_medium=member_desktop
