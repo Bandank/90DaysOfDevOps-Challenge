@@ -1,0 +1,21 @@
+Ansible is an open-source automation tool that simplifies the management and configuration of computer systems and network devices. 
+It uses declarative language to describe the desired state of systems and uses SSH or other remote management protocols to communicate and execute tasks on target machines. 
+Ansible allows users to automate complex IT tasks, such as configuration management, application deployment, orchestration, and cloud provisioning, making it popular among system administrators and DevOps teams.
+
+
+I have writtten some blogs explaining the component. You can check the below link:
+
+Day 55:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-55-understanding-configuration-activity-7060046642770550784-N_vF?utm_source=share&utm_medium=member_desktop
+
+Day 56:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-56-understanding-ad-hoc-commands-activity-7060453325166583809-7c9U?utm_source=share&utm_medium=member_desktop
+
+Day 57:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-57-project-deploying-a-nginx-activity-7061054028427739137-YLqr?utm_source=share&utm_medium=member_desktop
+
+Day 58:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-58-ansible-playbooks-activity-7061457058310627328-qc9w?utm_source=share&utm_medium=member_desktop
+
+Day 59:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-59-ansible-project-activity-7061810702033813504-avUJ?utm_source=share&utm_medium=member_desktop
