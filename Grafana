@@ -1,0 +1,25 @@
+Grafana is an open-source data visualization and monitoring platform used to analyze and display metrics, logs, and other data from various sources. 
+It provides a flexible and customizable interface for creating dashboards and graphs, making it easier to monitor and understand the performance of applications, systems, and networks. 
+Grafana supports a wide range of data sources, including databases, cloud platforms, time series databases, and log aggregators, making it a popular choice for monitoring and observability in both small and large-scale environments.
+
+
+I have written some blogs on this topic with detailed explanantion and hands-on. Check the below links:
+
+Day 72:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-72-grafana-activity-7068065783586725888-5KG3?utm_source=share&utm_medium=member_desktop
+
+Day 73:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-73-grafana-setup-activity-7068428172244975616-aq_z?utm_source=share&utm_medium=member_desktop
+
+Day 74:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-74-creating-a-dashboard-using-activity-7068800570718863360-UC1I?utm_source=share&utm_medium=member_desktop
+
+Day 75:
+https://www.linkedin.com/posts/bandan-devops-eng_day75-90daysofdevops-monitoring-activity-7069443336830337024-4_dG?utm_source=share&utm_medium=member_desktop
+
+Day 77:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-77-grafana-cloud-alerting-activity-7070868953459269632-M0HW?utm_source=share&utm_medium=member_desktop
+
+Day 78:
+https://www.linkedin.com/posts/bandan-devops-eng_devopsday-78-monitoring-with-grafana-cloud-activity-7071605456325984256-JCxK?utm_source=share&utm_medium=member_desktop
+
